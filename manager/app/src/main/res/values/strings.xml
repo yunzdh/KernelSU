@@ -236,4 +236,5 @@
     <string name="kpm_install_confirm">Confirm installation?</string>
     <string name="kpm_install_success">Installation of kpm module successful</string>
     <string name="kpm_install_failed">Installation of kpm module failed</string>
+    <string name="more_settings_simplicity_mode">simplicity mode</string>
 </resources>

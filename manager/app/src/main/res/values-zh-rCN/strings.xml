@@ -234,4 +234,5 @@
     <string name="kpm_install_confirm">确认安装吗？</string>
     <string name="kpm_install_success">安装kpm模块成功</string>
     <string name="kpm_install_failed">安装kpm模块失败</string>
+    <string name="more_settings_simplicity_mode">简洁模式</string>
 </resources>
